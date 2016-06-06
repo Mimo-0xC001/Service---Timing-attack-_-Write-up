@@ -9,7 +9,7 @@
 
 -
 
- > Salam,
+ > Salam,, voici l'énoncé du challenge :
  >
  > Service - Timing attack
  >
@@ -90,7 +90,7 @@ if __name__ == '__main__':
 
 -
 
-[Solve-25.py](./Solve-25.py)
+Pour télécharger le script : [Solve-25.py](./Solve-25.py)
 
 Résultat du script :
 
@@ -98,6 +98,6 @@ Résultat du script :
 
 ![](resultat.png)
 
-
+-
 
 J'espère que ce write-up vous sera utile,, Salam :)'
