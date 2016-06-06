@@ -27,9 +27,9 @@
 En essayons de résoudre ce challenge,, la première piste à suivre c'est en se basant sur le titre ... :p'
 ( à vrai dire le titre c'est la solution et non pas un point de départ ... xD' )
 
-voila,, maintenant qu'on a compris qu'il s'agit d'une attaque "Timing-attack" ... on doit préparer un petit script qui va faire l'affaire !
+voila,, maintenant qu'on a compris qu'il s'agit d'une attaque de type "Timing-attack" ... on doit préparer un petit script qui va faire l'affaire !
 
-le consept est assez simple,, on envoit à chaque fois une lettre et on calcule le temps de la réponse ... puis en fonction du temps on prend la lettre correct,, on l'ajoute à notre key et on passe à la lettre suivante !!
+le consept est assez simple,, on envoit notre clé en changeant une lettre à chaque fois en commençant par la première et on calcule le temps de la réponse ... puis en fonction du temps de la réponse on choisit la bonne lettre,, on l'ajoute à notre clé et on passe à la lettre suivante on applique la même chose !!
 
 vous pouvez écrire un script vous même,, voila ci-dessous j'ai essayé d'écrire un simple script j'espère qu'il vous sera utile :)'
 
