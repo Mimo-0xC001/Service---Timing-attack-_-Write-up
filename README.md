@@ -24,7 +24,7 @@
 -
 
 
-En essayons de résoudre ce challenge,, la première piste à suivre c'est en se basant sur le titre ... :p'
+En essayant de résoudre ce challenge,, la première piste à suivre c'est en se basant sur le titre ... :p'
 ( à vrai dire le titre c'est la solution et non pas un point de départ ... xD' )
 
 voila,, maintenant qu'on a compris qu'il s'agit d'une attaque de type "Timing-attack" ... on doit préparer un petit script qui va faire l'affaire !
